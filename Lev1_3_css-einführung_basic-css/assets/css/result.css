@@ -1,0 +1,12 @@
+body {
+    background-color: aliceblue;
+}
+
+ul {
+    list-style-type: none;
+    background-color: lightblue;
+}
+
+span, a {
+    color: red;
+}
